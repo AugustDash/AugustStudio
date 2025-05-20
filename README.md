@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/AugustDash/AugustStudio/refs/heads/main/14844231-7483-437B-81FA-0C1D4D4BA73E.png" alt="August Studio Banner" style="width:100%; max-width:800px;">
 # ✨ August Studio
 
 **AI-powered writing. Made human.**  
