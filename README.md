@@ -32,9 +32,7 @@ We:
 
 ## Get in Touch
 **Email**: [auguststudio@proton.me](mailto:auguststudio@proton.me)  
-**Live Site**: [https://auguststudio.github.io](https://auguststudio.github.io)
-
----
+**Live Site**: [https://augustdash.github.io/AugustStudio]
 
 ## Made with:
 - `HTML + GitHub Pages` for hosting
